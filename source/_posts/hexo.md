@@ -150,6 +150,10 @@ deploy:
 ```
 ## 三、测试
 ----
+打开git终端push你的代码，然后访问你的GitHub Pages博客地址。push代码命令如下
 ``` bash
-
+git status 
+git add .
+git commit -m 'your submit message'
+git push
 ```
